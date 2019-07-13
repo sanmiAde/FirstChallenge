@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">First Challenge</string>
+    <string name="track">Track:</string>
+    <string name="track_name">Android</string>
+    <string name="name">Oluwasanmi Aderibigbe</string>
+    <string name="country">Country:</string>
+    <string name="country_name">Nigeria</string>
+    <string name="email">Email:</string>
+    <string name="email_address">Sanmiaderibigbe@outlook.com</string>
+    <string name="phone">Phone Number:</string>
+    <string name="phone_number">09071339627</string>
+    <string name="slack">Slack UserName:</string>
+    <string name="slack_username">\@Oluwasanmi Aderibigbe</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_text">ABOUT ALC</string>
+    <string name="profile_text">MY PROFILE</string>
+    <string name="main_title_bar_text">ALC 4 phase 1</string>
 </resources>
